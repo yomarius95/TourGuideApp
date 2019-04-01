@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurant_text">Restaurants</string>
+    <string name="bar_text">Bars</string>
+    <string name="park_text">Parks</string>
+    <string name="fun_text">Fun</string>
+
+    <string name="restaurant_1_description">Simple, fresh american dining</string>
+    <string name="restaurant_2_description">Traditional chinese cuisine</string>
+
+    <string name="bar_1_description">Terrace / bar / summer garden</string>
+
+    <string name="park_1_description">Herastrau Park is a large park on the northern side of Bucharest, Romania, around Lake Herastrau, one of the lakes formed by the Colentina River.</string>
+    <string name="park_2_description">Tineretului Park is a large public park in southern Bucharest.</string>
+
+    <string name="fun_1_description">Billiards, bowling, fitness, pool, eSports and restaurant</string>
+    <string name="fun_2_description">Climbing, equitation, paintball, airsoft, biking, archery and more</string>
+
+</resources>
